@@ -1,10 +1,16 @@
-# Hi Everyone
-## Hi there 👋
+# Hi there I'm Amarachi Vincent 👋
 
-### Hi Everyone
 
-#### Hi Everyone
+### Experience Data Analyst | Passionate about turning raw data into actionable insights 
 
+Welcome to my GitHub portfolio! Detail-oriented Data Analyst skilled in transforming complex datasets into actionable
+insights using SQL, Python, Excel and Power BI. Committed to data-driven decision-making
+to improve business performance and operational efficiency.
+
+### Technical Skills
+*   **Programming Languages:** Python, SQL
+*   **Data Analysis & Visualization:** Data Cleaning,  Exploratory Data Analysis (EDA), Data Mining, Dashboarding, Reporting
+*   **Tools & Platforms:** Power BI, Excel, Google Sheets, Microsoft SQL, GitHub 
 
 
 <!--
